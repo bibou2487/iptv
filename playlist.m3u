@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://localhost:34400/xmltv/xteve.xml"
 
 #EXTINF:-1 tvg-id="power.action" tvg-name="POWER ACTION" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ACTION" group-title="AR | POWER",POWER ACTION
 http://ktvs.xyz:8080/live/373730134805/137535149713/525517.m3u8
