@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="power.action" tvg-name="POWER ACTION" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ACTION"
-http://ktvs.xyz:8080/live/373730134805/137535149713/525517.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="power.zaman" tvg-name="POWER ZAMAN" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ZAMAN"
 http://ktvs.xyz:8080/live/373730134805/137535149713/525518.m3u8
