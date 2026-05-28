@@ -1,4 +1,4 @@
-#EXTINF
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="POWER ACTION" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER ACTION
 http://ktvs.xyz:8080/live/373730134805/137535149713/525517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER ZAMAN" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER ZAMAN
@@ -21,3 +21,23 @@ http://ktvs.xyz:8080/live/373730134805/137535149713/525525.m3u8
 http://ktvs.xyz:8080/live/373730134805/137535149713/525526.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER HISTORY" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER HISTORY
 http://ktvs.xyz:8080/live/373730134805/137535149713/525527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER MARVEL" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER MARVEL
+http://ktvs.xyz:8080/live/373730134805/137535149713/525528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER AVANGERS" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER AVANGERS
+http://ktvs.xyz:8080/live/373730134805/137535149713/525529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER THOR" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER THOR
+http://ktvs.xyz:8080/live/373730134805/137535149713/525530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER SPIDER" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER SPIDER
+http://ktvs.xyz:8080/live/373730134805/137535149713/525531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER INDIAN" tvg-logo="" group-title="AR | POWER",POWER INDIAN
+http://ktvs.xyz:8080/live/373730134805/137535149713/525532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER SERIES" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER SERIES
+http://ktvs.xyz:8080/live/373730134805/137535149713/525533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER DISNEY" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER DISNEY
+http://ktvs.xyz:8080/live/373730134805/137535149713/525534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER FITNESS M" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER FITNESS M
+http://ktvs.xyz:8080/live/373730134805/137535149713/525535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER FITNESS W" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER FITNESS W
+http://ktvs.xyz:8080/live/373730134805/137535149713/525536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER CLIPS" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER CLIPS
+http://ktvs.xyz:8080/live/373730134805/137535149713/525537.m3u8
