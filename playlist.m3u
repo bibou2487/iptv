@@ -1,1 +1,43 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="power.action" tvg-name="POWER ACTION" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ACTION"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525517.m3u8
+
+#EXTINF:-1 tvg-id="power.zaman" tvg-name="POWER ZAMAN" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ZAMAN"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525518.m3u8
+
+#EXTINF:-1 tvg-id="power.aflam" tvg-name="POWER AFLAM" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+AFLAM"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525519.m3u8
+
+#EXTINF:-1 tvg-id="power.cinema" tvg-name="POWER CINEMA" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+CINEMA"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525520.m3u8
+
+#EXTINF:-1 tvg-id="power.comedy" tvg-name="POWER COMEDY" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+COMEDY"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525521.m3u8
+
+#EXTINF:-1 tvg-id="power.drama" tvg-name="POWER DRAMA" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+DRAMA"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525522.m3u8
+
+#EXTINF:-1 tvg-id="power.max" tvg-name="POWER MAX" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+MAX"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525523.m3u8
+
+#EXTINF:-1 tvg-id="power.dbox" tvg-name="POWER D-BOX" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+D-BOX"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525524.m3u8
+
+#EXTINF:-1 tvg-id="power.filmbox" tvg-name="POWER FILMBOX" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+FILMBOX"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525525.m3u8
+
+#EXTINF:-1 tvg-id="power.foxmovies" tvg-name="POWER FOX MOVIES" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+FOX+MOVIES"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525526.m3u8
+
+#EXTINF:-1 tvg-id="power.history" tvg-name="POWER HISTORY" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+HISTORY"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525527.m3u8
+
+#EXTINF:-1 tvg-id="power.marvel" tvg-name="POWER MARVEL" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+MARVEL"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525528.m3u8
+
+#EXTINF:-1 tvg-id="power.avangers" tvg-name="POWER AVANGERS" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+AVANGERS"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525529.m3u8
+
+#EXTINF:-1 tvg-id="power.thor" tvg-name="POWER THOR" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+THOR"
+http://ktvs.xyz:8080/live/373730134805/137535149713/525530.m3u8
