@@ -1,31 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="POWER ACTION" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER ACTION
+
+#EXTINF:-1 tvg-id="power.action" tvg-name="POWER ACTION" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ACTION" group-title="AR | POWER",POWER ACTION
 http://ktvs.xyz:8080/live/373730134805/137535149713/525517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER ZAMAN" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER ZAMAN
+
+#EXTINF:-1 tvg-id="power.zaman" tvg-name="POWER ZAMAN" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ZAMAN" group-title="AR | POWER",POWER ZAMAN
 http://ktvs.xyz:8080/live/373730134805/137535149713/525518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER AFLAM" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER AFLAM
+
+#EXTINF:-1 tvg-id="power.aflam" tvg-name="POWER AFLAM" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+AFLAM" group-title="AR | POWER",POWER AFLAM
 http://ktvs.xyz:8080/live/373730134805/137535149713/525519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER CINEMA" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER CINEMA
+
+#EXTINF:-1 tvg-id="power.cinema" tvg-name="POWER CINEMA" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+CINEMA" group-title="AR | POWER",POWER CINEMA
 http://ktvs.xyz:8080/live/373730134805/137535149713/525520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER COMEDY" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER COMEDY
+
+#EXTINF:-1 tvg-id="power.comedy" tvg-name="POWER COMEDY" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+COMEDY" group-title="AR | POWER",POWER COMEDY
 http://ktvs.xyz:8080/live/373730134805/137535149713/525521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER DRAMA" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER DRAMA
+
+#EXTINF:-1 tvg-id="power.drama" tvg-name="POWER DRAMA" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+DRAMA" group-title="AR | POWER",POWER DRAMA
 http://ktvs.xyz:8080/live/373730134805/137535149713/525522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER MAX" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER MAX
+
+#EXTINF:-1 tvg-id="power.max" tvg-name="POWER MAX" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+MAX" group-title="AR | POWER",POWER MAX
 http://ktvs.xyz:8080/live/373730134805/137535149713/525523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER D-BOX" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER D-BOX
+
+#EXTINF:-1 tvg-id="power.dbox" tvg-name="POWER D-BOX" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+D-BOX" group-title="AR | POWER",POWER D-BOX
 http://ktvs.xyz:8080/live/373730134805/137535149713/525524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER FILMBOX" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER FILMBOX
+
+#EXTINF:-1 tvg-id="power.filmbox" tvg-name="POWER FILMBOX" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+FILMBOX" group-title="AR | POWER",POWER FILMBOX
 http://ktvs.xyz:8080/live/373730134805/137535149713/525525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER FOX MOVIES" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER FOX MOVIES
+
+#EXTINF:-1 tvg-id="power.foxmovies" tvg-name="POWER FOX MOVIES" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+FOX+MOVIES" group-title="AR | POWER",POWER FOX MOVIES
 http://ktvs.xyz:8080/live/373730134805/137535149713/525526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER HISTORY" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER HISTORY
+
+#EXTINF:-1 tvg-id="power.history" tvg-name="POWER HISTORY" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+HISTORY" group-title="AR | POWER",POWER HISTORY
 http://ktvs.xyz:8080/live/373730134805/137535149713/525527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER MARVEL" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER MARVEL
+
+#EXTINF:-1 tvg-id="power.marvel" tvg-name="POWER MARVEL" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+MARVEL" group-title="AR | POWER",POWER MARVEL
 http://ktvs.xyz:8080/live/373730134805/137535149713/525528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER AVANGERS" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER AVANGERS
+
+#EXTINF:-1 tvg-id="power.avangers" tvg-name="POWER AVANGERS" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+AVANGERS" group-title="AR | POWER",POWER AVANGERS
 http://ktvs.xyz:8080/live/373730134805/137535149713/525529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER THOR" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER THOR
+
+#EXTINF:-1 tvg-id="power.thor" tvg-name="POWER THOR" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+THOR" group-title="AR | POWER",POWER THOR
 http://ktvs.xyz:8080/live/373730134805/137535149713/525530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER SPIDER" tvg-logo="http://195.201.107.94:80/images/G7uNio_wLmGhnMRx7E3vKnD13Xre7yHgHO2xnAwiftta1AGjlbORpvgLhEU8P-6bNK5taB6bnUm-nneXv9eG9W6OoRjCPUqfpaDS0mxXC20.png" group-title="AR | POWER",POWER SPIDER
-http://ktvs.xyz:8080/live/373730134805/137535149713/525531.m3u8
