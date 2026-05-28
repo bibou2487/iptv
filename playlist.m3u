@@ -1,19 +1,4 @@
-#EXTM3U url-tvg="http://localhost:34400/xmltv/xteve.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="power.action" tvg-name="POWER ACTION" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+ACTION" group-title="AR | POWER",POWER ACTION
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-id="power.foxmovies" tvg-name="POWER FOX MOVIES" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+FOX+MOVIES" group-title="AR | POWER",POWER FOX MOVIES
-http://ktvs.xyz:8080/live/373730134805/137535149713/525526.m3u8
-
-#EXTINF:-1 tvg-id="power.history" tvg-name="POWER HISTORY" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+HISTORY" group-title="AR | POWER",POWER HISTORY
-http://ktvs.xyz:8080/live/373730134805/137535149713/525527.m3u8
-
-#EXTINF:-1 tvg-id="power.marvel" tvg-name="POWER MARVEL" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+MARVEL" group-title="AR | POWER",POWER MARVEL
-http://ktvs.xyz:8080/live/373730134805/137535149713/525528.m3u8
-
-#EXTINF:-1 tvg-id="power.avangers" tvg-name="POWER AVANGERS" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+AVANGERS" group-title="AR | POWER",POWER AVANGERS
-http://ktvs.xyz:8080/live/373730134805/137535149713/525529.m3u8
-
-#EXTINF:-1 tvg-id="power.thor" tvg-name="POWER THOR" tvg-logo="https://via.placeholder.com/300x300.png?text=POWER+THOR" group-title="AR | POWER",POWER THOR
-http://ktvs.xyz:8080/live/373730134805/137535149713/525530.m3u8
