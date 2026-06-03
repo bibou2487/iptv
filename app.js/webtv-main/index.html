@@ -5,11 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="An IPTV player powered by Bugsfree">
 <meta name="theme-color" content="#0066cc">
-<title>Bugsfree Studio Web IPTV</title>
+<title>قنواتي - IPTV Player</title>
 <link rel="stylesheet" href="./css/style.css">
 <link rel="icon" href="./img/logo.png" type="image/png">
 <link rel="manifest" href="manifest.json">
-<!-- Apple Touch Icon for iOS -->
 <link rel="apple-touch-icon" href="./img/icon-192x192.png">
 <script src="https://unpkg.com/feather-icons"></script>
 </head>
@@ -138,9 +137,9 @@
     <!-- Main App Logic -->
     <script>
         // ============================================
-        // 🔴 رابط القنوات الخاص بك 🔴
+        // 🔴 رابط القنوات الخاص بك (اللي تتحكم فيه أنت)
         // ============================================
-        const DEFAULT_PLAYLIST_URL = 'http://legendott.com:8080/get.php?username=Ghazanfar12&password=56874567&type=m3u';
+        const DEFAULT_PLAYLIST_URL = 'https://raw.githubusercontent.com/bibou2487/iptv/refs/heads/main/app.js/webtv-main/channels.m3u';
         
         // إخفاء نماذج الإدخال فوراً
         const hideFormsStyle = document.createElement('style');
