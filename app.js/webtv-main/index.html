@@ -34,13 +34,6 @@
                         <input type="url" id="m3u-url-input" placeholder="Paste m3u/m3u8/json/txt URL...">
                         <button type="submit" class="sidebar-action-btn"><i data-feather="link"></i> Load</button>
                     </form>
-                    <!--<form id="single-channel-form" autocomplete="off">
-                        <label>Add Single Channel:</label>
-                        <input type="text" id="single-channel-url" placeholder="Channel Stream URL">
-                        <input type="text" id="single-channel-name" placeholder="Channel Name (optional)">
-                        <input type="text" id="single-channel-logo" placeholder="Logo URL (optional)">
-                        <button type="submit" class="sidebar-action-btn"><i data-feather="plus-circle"></i> Add</button>
-                    </form>-->
                 </section>
                 <section class="tab-content tab-settings">
                     <div class="menu-item sound-control" id="mute-btn">
@@ -136,11 +129,60 @@
             <div class="scanlines"></div>
         </div>
     </div>
+    
+    <!-- Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1.4.0/dist/hls.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-    <script src="./js/app.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-	<script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    
+    <!-- Main App Logic -->
+    <script>
+        // ============================================
+        // 🔴 رابط القنوات الخاص بك 🔴
+        // ============================================
+        const DEFAULT_PLAYLIST_URL = 'http://legendott.com:8080/get.php?username=Ghazanfar12&password=56874567&type=m3u';
+        
+        // إخفاء نماذج الإدخال فوراً
+        const hideFormsStyle = document.createElement('style');
+        hideFormsStyle.textContent = `
+            .tab-upload, .tab-upload.active {
+                display: none !important;
+            }
+        `;
+        document.head.appendChild(hideFormsStyle);
+        
+        // انتظار تحميل الصفحة بالكامل
+        window.addEventListener('load', function() {
+            console.log('الصفحة تحمّلت، جاري تجهيز القائمة...');
+            
+            // تعبئة الرابط والضغط على زر التحميل
+            setTimeout(function() {
+                const urlInput = document.getElementById('m3u-url-input');
+                const loadBtn = document.querySelector('#m3u-url-form button[type="submit"]');
+                
+                if (urlInput && loadBtn) {
+                    urlInput.value = DEFAULT_PLAYLIST_URL;
+                    console.log('تم تعبئة الرابط: ' + DEFAULT_PLAYLIST_URL);
+                    
+                    // محاولة الضغط على زر التحميل
+                    setTimeout(function() {
+                        loadBtn.click();
+                        console.log('تم الضغط على زر التحميل');
+                    }, 500);
+                } else {
+                    console.log('لم يتم العثور على عناصر التحميل');
+                }
+            }, 1000);
+        });
+        
+        // مراقبة الأخطاء
+        window.addEventListener('error', function(e) {
+            console.log('خطأ في الصفحة:', e.message);
+        });
+    </script>
+    
+    <!-- Service Worker -->
+    <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
                 navigator.serviceWorker.register('/sw.js')
